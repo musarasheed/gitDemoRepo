@@ -1,1 +1,2 @@
-print("Ayyyy here we go!")
+for i in range(1,30):
+    print(i**2)
